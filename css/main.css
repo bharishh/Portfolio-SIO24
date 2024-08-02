@@ -1,0 +1,19 @@
+@import url(/css/reset.css);
+
+/* Rectangle 1 */
+
+.rect1{
+    position: absolute;
+width: 288px;
+height: 206px;
+
+text-align: center;
+
+
+background: #749b5e;
+}
+
+
+header{
+    text-align: center;
+}
